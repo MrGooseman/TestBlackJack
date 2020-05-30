@@ -1,0 +1,9 @@
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\bin\Debug\AppWithBlackJack.exe.config
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\bin\Debug\AppWithBlackJack.exe
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\bin\Debug\AppWithBlackJack.pdb
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.csprojAssemblyReference.cache
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.Form1.resources
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.Properties.Resources.resources
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.csproj.GenerateResource.cache
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.exe
+C:\Users\Мухаммад\source\repos\AppWithBlackJack\AppWithBlackJack\obj\Debug\AppWithBlackJack.pdb
